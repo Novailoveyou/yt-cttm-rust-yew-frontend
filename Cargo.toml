@@ -1,5 +1,5 @@
 [package]
-name = "RustFrontEnd"
+name = "rust_front_end"
 version = "0.1.0"
 edition = "2021"
 

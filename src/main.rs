@@ -18,7 +18,7 @@ fn app() -> Html {
 				value: state.value + 1
 			})
 		})
-	}
+	};
 
 	html! {
 		<div>
@@ -28,6 +28,6 @@ fn app() -> Html {
 	}
 }
 
-fn main(){
+fn main() {
 	yew::start_app::<App>();
 }
