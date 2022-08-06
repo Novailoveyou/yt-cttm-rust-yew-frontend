@@ -1,0 +1,25 @@
+body {
+  background-color: 000;
+}
+
+div {
+  margin-top: 35px;
+  font-family: Cubano;
+  text-align: center;
+  color: #fff;
+}
+
+p {
+  font-size: 15em;
+}
+
+button {
+  width: 50%;
+  height: 500px;
+  border-width: 8px;
+  font-family: Cubano;
+  font-size: 18em;
+  text-align: center;
+  background-color: #555;
+  color: #fff;
+}

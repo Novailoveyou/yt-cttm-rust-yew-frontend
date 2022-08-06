@@ -28,3 +28,9 @@ Init Rust front-end
 ```zsh
 cargo new RustFrontEnd
 ```
+
+Run app locally
+
+```zsh
+trunk serve
+```
